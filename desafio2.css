@@ -36,7 +36,10 @@ header {
     border-radius: 6px;
     padding: 12px 28px;
     color: #ffffff;
+}
 
+.link-header:hover {
+    opacity: .5;
 }
 
 main {
